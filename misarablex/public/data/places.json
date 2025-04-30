@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "name": "Estadio Akron",
+    "lat": 20.6848,
+    "lon": -103.4621,
+    "exercises": ["running", "cycling", "soccer"],
+    "img": "https://www.sinembargo.mx/wp-content/uploads/2022/09/estadioakron.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Parque de la Solidaridad",
+    "lat": 20.6525,
+    "lon": -103.2702,
+    "exercises": ["yoga", "running"],
+    "img": "https://jalisco.gob.mx/sites/default/files/51698689714_7f27403723_h.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Parque Metropolitano",
+    "lat": 20.6722,
+    "lon": -103.4404,
+    "exercises": ["running", "cycling", "yoga"],
+    "img": "https://www.informador.mx/__export/1730926268151/sites/elinformador/img/2024/11/06/parque_guadalajara_1.jpg_158021514.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bosque Los Colomos",
+    "lat": 20.7047,
+    "lon": -103.3847,
+    "exercises": ["running", "hiking", "yoga"],
+    "img": "https://cdn.milenio.com/uploads/media/2016/01/26/estudio-tecnico-justificativo-del-area.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Parque Alcalde",
+    "lat": 20.6831,
+    "lon": -103.3389,
+    "exercises": ["running", "cycling", "yoga"],
+    "img": "https://venturadistrict.com/wp-content/uploads/2021/08/Parque-Alcalde.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Parque Independencia",
+    "lat": 20.7406,
+    "lon": -103.2939,
+    "exercises": ["running", "hiking", "yoga"],
+    "img": "https://cdn.milenio.com/uploads/media/2023/02/12/espacio-parque-mirador-independencia-funciona.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Smart Fit Patria",
+    "lat": 20.684,
+    "lon": -103.396,
+    "exercises": ["weight-lifting", "cardio", "crossfit"],
+    "img": "https://i0.wp.com/blog.smartfit.com.mx/wp-content/uploads/2019/02/gimnasios-smart-fit-peso-integradot-en-queretaro.jpg?fit=1200%2C675&ssl=1"
+  },
+  {
+    "id": 8,
+    "name": "Sport City Guadalajara",
+    "lat": 20.6761,
+    "lon": -103.3944,
+    "exercises": ["swimming", "weight-lifting", "yoga"],
+    "img": "https://www.revistavidafitness.com/wp-content/uploads/2022/08/SPORT_CITY_QRO.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Parque Hundido",
+    "lat": 20.6875,
+    "lon": -103.3681,
+    "exercises": ["running", "cycling", "yoga"],
+    "img": "https://ciudadolinka.com/wp-content/uploads/2022/10/Parque-Hundido-en-Av.-Circunvalacio%CC%81n-Guadalajara.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Anytime Fitness",
+    "lat": 20.6767,
+    "lon": -103.3933,
+    "exercises": ["weight-lifting", "cardio", "HIIT"],
+    "img": "https://cdns3.fitfit.fitness/mx/media/items/originals/3881-Anytime-Fitness-Juriquilla-vSCHs.jpg"
+  },
+
+  {
+    "id": 11,
+    "name": "Parque San Rafael",
+    "lat": 20.6736,
+    "lon": -103.3222,
+    "exercises": ["running", "cycling", "yoga", "swimming"],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGwmlgg2mNpQD7lpT-wI0USW7qe7gJHCe-xw&s"
+  },
+  {
+    "id": 12,
+    "name": "CrossFit Zapopan",
+    "lat": 20.7211,
+    "lon": -103.3872,
+    "exercises": ["crossfit", "weight-lifting", "HIIT"],
+    "img": "https://cdns3.fitfit.fitness/mx/media/items/540x280/9438-CF-Unbreakable-kCpJA.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Gold's Gym Guadalajara",
+    "lat": 20.6736,
+    "lon": -103.4067,
+    "exercises": ["weight-lifting", "cardio", "group classes"],
+    "img": "https://www.mundodeportivo.com/palco23/files/2020/19_redaccion/fitness/gold's%20gym/golds-gym-728.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Spartan Fitness",
+    "lat": 20.6756,
+    "lon": -103.3969,
+    "exercises": ["crossfit", "HIIT", "weight-lifting"],
+    "img": "https://media.licdn.com/dms/image/v2/D4D1BAQEu_bjPlf-qRA/company-background_10000/company-background_10000/0/1656487183861/spartan_fitness_bahrain_cover?e=2147483647&v=beta&t=MHgQZurgTN1LTeJb9Cd6hFG4YcuMxZsbkVTMx_0dEmQ"
+  },
+  {
+    "id": 15,
+    "name": "Parque Revolución",
+    "lat": 20.6736,
+    "lon": -103.3506,
+    "exercises": ["running", "cycling", "yoga"],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUYYCzQ3yALibMxfTXfK6PEYhvJCw8e8nag&s"
+  },
+  {
+    "id": 16,
+    "name": "O2 Fitness & Wellness",
+    "lat": 20.6742,
+    "lon": -103.3958,
+    "exercises": ["yoga", "pilates", "cardio"],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI6iWfY2Lxx-Ym7vqHnq84u9MGY_9xG7-M-A&s"
+  },
+  {
+    "id": 17,
+    "name": "Parque Agua Azul",
+    "lat": 20.6597,
+    "lon": -103.3442,
+    "exercises": ["running", "cycling", "yoga"],
+    "img": "https://bosquesurbanos.mx/media/bosques/a1.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Energy Fitness",
+    "lat": 20.6761,
+    "lon": -103.3922,
+    "exercises": ["weight-lifting", "cardio", "group classes"],
+    "img": "https://www.energyfitness.com.mx/images/vallejo/energy_fitness_Vallejo-05.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Iron Gym",
+    "lat": 20.6781,
+    "lon": -103.3936,
+    "exercises": ["weight-lifting", "bodybuilding", "cardio"],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpY1QAr2vcVzKt-A6kwYnpG6sxY2rIKBc1A&s"
+  },
+  {
+    "id": 20,
+    "name": "Fit Pilates Studio",
+    "lat": 20.6753,
+    "lon": -103.395,
+    "exercises": ["pilates", "yoga", "stretching"],
+    "img": "https://assets-cdn.wellhub.com/images/?su=https%3A%2F%2Fimages.partners.gympass.com%2Fimage%2Fpartners%2F485058%2Flg_9d2a247d-446a-4255-aaef-f4be8767f316_bedeffdeeceefcdhomefunctionalpilates.jpg&h=280"
+  }
+]
