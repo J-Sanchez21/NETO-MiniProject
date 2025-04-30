@@ -1,2 +1,2 @@
-# MISArAbLEX---NETO
-NETO Mini-Project (MISArAbLEX Team)
+# NETO Mini-Project
+Project Developed last week for the NETO Training program
